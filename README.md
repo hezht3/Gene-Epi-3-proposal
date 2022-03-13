@@ -1,2 +1,2 @@
 # epi733-proposal
-JHSPH 340.733.01 Course assignment
+Course assignments for JHSPH 340.733.01 - Principles of Genetic Epi 3
