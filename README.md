@@ -1,2 +1,2 @@
-# Epi-GeneEpi3-proposal
+# Gene-Epi-3-proposal
 Course assignments
